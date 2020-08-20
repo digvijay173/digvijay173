@@ -1,5 +1,5 @@
 ### Hey there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay173&label=Views&color=blue&style=plastic" alt="digvijay173" /> </p>
 - 🔭 I’m currently pursuing Computer Engineering 
 - 🌱 I’m currently learning ML and Flutter
 
@@ -12,3 +12,7 @@
 [twitter]: https://twitter.com/djaypawar173
 [instagram]: https://www.instagram.com/digvijay_173/
 [linkedin]: https://www.linkedin.com/in/digvijay-pawar-7892bb171/
+
+<a href="https://github.com/digvijay173">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay173&theme=light&hide_langs_below=1" />
+</a>
