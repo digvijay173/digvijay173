@@ -11,6 +11,3 @@
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/djaypawar173)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/digvijay-pawar-7892bb171/)
-
-![Digvijay's github stats](https://github-readme-stats.vercel.app/api?username=digvijay173&show_icons=true)
-
