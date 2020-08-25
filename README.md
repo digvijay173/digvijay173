@@ -1,9 +1,9 @@
 ### Hey there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay173&label=Views&color=blue&style=plastic" alt="digvijay173" /> </p>
 
-
 - 🔭 I’m currently pursuing Computer Engineering 
-- 🌱 I’m currently learning ML and Flutter
+- 🌱 I’m currently learning ML and Flutter 
+- ⚡ Fun fact: I listen to a lot of music and I likes photography, Check out my [Photography page](https://www.instagram.com/essence_lens/) on instagram.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
