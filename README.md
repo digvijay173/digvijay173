@@ -21,5 +21,5 @@
 [medium]: https://medium.com/@djaypawar17
 
 <a href="https://github.com/digvijay173">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay173&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay173&theme=light&layout=compact&" />
 </a>
