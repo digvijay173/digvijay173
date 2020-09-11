@@ -33,5 +33,5 @@
 [medium]: https://medium.com/@djaypawar17
 
 <a href="https://github.com/digvijay173">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay173&theme=light&layout=compact&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay173&theme=tokyonight&layout=compact&" />
 </a>
