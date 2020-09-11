@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay173&label=Views&color=blue&style=plastic" alt="digvijay173" /> </p>
 
 - 🔭 I’m currently pursuing Computer Engineering 
