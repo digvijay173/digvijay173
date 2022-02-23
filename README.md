@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digvijay173&label=Views&color=blue&style=plastic" alt="digvijay173" /> </p>
 
 - 🔭 I’m currently pursuing Computer Engineering 
-- 🌱 I’m currently learning ML and Flutter 
 
 ### Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
